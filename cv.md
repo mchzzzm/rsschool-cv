@@ -18,3 +18,21 @@ I am a 19 years old student striving to learn Web Development and to master this
 - Git, GitHub
 - Photoshop
   > _to be continued_
+
+## Code Example
+
+```
+function multiply (a, b) {
+return a * b
+}
+```
+
+## Education
+
+- **RS School:** JavaScript/FrontEnd Pre-School 2022Q2
+- **FreeCodeCamp:** Legacy Responsive Web Design
+- **Udemy:** Build Responsive Real-World Websites with HTML and CSS _by Jonas Schmedtmann_
+
+## English
+
+My English level is **B2**. Additionally, **Russian** is my first language, **Finnish** is third (**A2**).
