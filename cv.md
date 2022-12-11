@@ -20,6 +20,17 @@ I am a 20 years old tutor. Working in educational sphere makes me understand mor
 
 ## Code Examples
 
+'''
+function multiply(a, b){
+return a \* b
+}
+'''
+
 ## Education
+
+- FreeCodeCamp (HTML, CSS)
+- Hexlet (HTML, CSS)
+- RS School (HTML, CSS, JavaScript, Git)
+  more to learn!
 
 ## Languages
