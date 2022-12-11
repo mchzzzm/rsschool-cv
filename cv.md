@@ -34,3 +34,7 @@ return a \* b
   more to learn!
 
 ## Languages
+
+- Russian (native)
+- English (B2)
+- Finnish (A2.1)
